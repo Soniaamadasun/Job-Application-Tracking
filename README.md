@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a project I undertook using Power BI. This project allowed me to streamline and optimize recruitment process, leading to valuable insights and recommendations that significantly improved recruitment strategies. 
+This is a Job application tracking project I undertook using Power BI. This project allowed me to streamline and optimize recruitment process, leading to valuable insights and recommendations that significantly improved recruitment strategies. 
 
 ---
 
